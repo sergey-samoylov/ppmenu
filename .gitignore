@@ -4,6 +4,7 @@ info.txt
 pyproject.toml
 .pytest_cache
 *cache*
+*egg*
 
 __pycache__/
 *.py[cod]
