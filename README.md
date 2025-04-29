@@ -33,7 +33,7 @@ and anywhere a clean text menu is needed.
 
 ## Installation
 
-**Option 1: Local Project**
+**Option 1: Local Project - istall with pip**
 
 ```bash
 uv pip install ppmenu
