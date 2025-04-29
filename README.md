@@ -35,6 +35,16 @@ and anywhere a clean text menu is needed.
 
 **Option 1: Local Project**
 
+```bash
+uv pip install ppmenu
+
+# or
+
+pip install ppmenu
+```
+
+**Option 2: Local Project**
+
 Clone the repository:
 
 ```bash
@@ -72,6 +82,21 @@ menu.run()
 ✅ Arrow keys and Vim-keys move.  
 ✅ Press `h` to run "Hello".  
 ✅ Press `q` to quit.
+
+---
+
+## Enjoy projects in examples/
+
+Have a taste how it might work with your own projects by launching  
+one of these simple apps:
+
+- demo
+- Cozy Coffee Shop
+- English Quiz
+
+All are in `examples` directory.
+
+Will happily create a file with a list of your projects, that use PPMenu.
 
 ---
 
