@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""Simple demo to showcase PPMenu usage: menu with and without quick-jumps."""
+
+# created by Sergey Samoylov https://github.com/sergey-samoylov/ppmenu
 
 import sys
 

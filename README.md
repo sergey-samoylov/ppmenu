@@ -4,6 +4,8 @@
 
 ---
 
+![PPMenu is beautiful and adaptive menu sistem for terminal apps](img/01.png)
+
 ## What is PPMenu?
 
 PPMenu is a lightweight **pure Python** menu builder focused on:

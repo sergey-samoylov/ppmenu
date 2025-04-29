@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""A simple, functional terminal menu system with quick-jump and navigation."""
+
+# created by Sergey Samoylov https://github.com/sergey-samoylov/ppmenu
+
 import re
 import sys
 import termios

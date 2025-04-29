@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""Example of a quiz to test knowledge of irregular verbs in English."""
+
+# created by Sergey Samoylov https://github.com/sergey-samoylov/ppmenu
 
 import sys
 from ppmenu import PPM, ColorScheme

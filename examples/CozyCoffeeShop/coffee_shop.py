@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""A Coffee Shop interface done in PPMenu - fast and eyecatching."""
+
+# created by Sergey Samoylov https://github.com/sergey-samoylov/ppmenu
+
 import sys
 
 from ppmenu import PPM, ColorScheme

@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""Default constants for PPMenu system."""
+
+# created by Sergey Samoylov https://github.com/sergey-samoylov/ppmenu
+
 from dataclasses import dataclass
 
 @dataclass
