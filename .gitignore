@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+info.txt
+*.ini
+pyproject.toml
+.pytest_cache
+*cache*
+
 __pycache__/
 *.py[cod]
 *$py.class
